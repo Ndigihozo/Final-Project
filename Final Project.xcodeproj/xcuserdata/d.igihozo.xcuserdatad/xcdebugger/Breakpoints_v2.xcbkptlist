@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABD93EF3-9934-44F4-8C1D-BC4CD2F452B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978F6F0D-47C6-475A-AA41-EDA91E04C9D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final Project/TipsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "978F6F0D-47C6-475A-AA41-EDA91E04C9D0 - 3e5b4335e15c0798"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project.TipsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Final Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.igihozo/Downloads/SCS%20141%2075%20Prog%20II.%20Mobile%20App%20Development/HW/Final%20Project/Final%20Project/TipsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "978F6F0D-47C6-475A-AA41-EDA91E04C9D0 - 3e5b4335e15c0666"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project.TipsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Final Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.igihozo/Downloads/SCS%20141%2075%20Prog%20II.%20Mobile%20App%20Development/HW/Final%20Project/Final%20Project/TipsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
